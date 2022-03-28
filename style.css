@@ -38,6 +38,11 @@ body {
     color: rgb(210,210,210);
     font-family: coolFont;
   }
+
+  .center {
+    width: 100%;
+    text-align: center;
+  }
   
   .link:hover {
     text-decoration: underline;
